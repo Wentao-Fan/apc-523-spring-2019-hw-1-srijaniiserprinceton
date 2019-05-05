@@ -1,0 +1,1 @@
+In (iii) of part (e), the problem is not about disastrous subtractions (that would be an algorithm's problem), instead, it's because there a many (complex) roots of the polynomial near x = 20 if the coefficients are perturbed.
