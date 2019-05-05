@@ -1,0 +1,2 @@
+In error analysis, keep only the terms that are at leading order in \epsilon.
+In part (d), the forward error consists of both the problem error and the algorithm error.
